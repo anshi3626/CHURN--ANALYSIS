@@ -1,0 +1,1 @@
+Customer churn data analysis using Python, Pandas, SQLite, Matplotlib and Seaborn. Includes data cleaning, feature engineering, churn KPIs, visualizations and SQL practice.
